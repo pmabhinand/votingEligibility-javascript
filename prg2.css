@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+.container h1{
+    color: blue;
+}
+.box{
+    padding: 1rem;
+    border: 1px solid blue;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 2rem;
+
+}
+button{
+    background-color: green;
+    color: white;
+    border-color: green;
+}
